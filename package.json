@@ -1,0 +1,24 @@
+{
+  "name": "kakegurui",
+  "version": "1.0.0",
+  "description": "Casino game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppLoidx/kakegurui.git"
+  },
+  "keywords": [
+    "game",
+    "casino",
+    "react"
+  ],
+  "author": "Arthur Kupriyanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AppLoidx/kakegurui/issues"
+  },
+  "homepage": "https://github.com/AppLoidx/kakegurui#readme"
+}

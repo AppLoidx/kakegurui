@@ -131,5 +131,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .container-all {
   background-color: white;
-
+}
+.main-navbar-link{
+  
+    transition: background-color 0.8s ease-out 0s ;
+}
+.main-navbar-link:hover {
+      background-color: lightgray;
 }
